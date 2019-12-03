@@ -1,5 +1,4 @@
 let args = process.argv.slice(2);
-
 let nums = [];
 
 for (let item of args) {
